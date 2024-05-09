@@ -27,7 +27,7 @@ conda install pytorch-scatter -c pyg
 
 ## Datasets Generation
 
-Download and unzip data.zip. 
+Download and unzip data.zip from this [link](https://www.dropbox.com/scl/fi/b6xo9xwncjij4tzt56jox/data.zip?rlkey=k0mjatutze3wazy5a66zvived&st=4jv3ydur&dl=0). 
 
 Generated ICEWS-one_int and ICEWS-one_ext datasets are already in data/dataset. Please copy to the software folder for model training and evaluation.
 
