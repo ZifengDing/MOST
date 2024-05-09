@@ -1,0 +1,6 @@
+matplotlib==3.2.2
+numpy==1.20.0
+pandas==1.2.2
+tqdm==4.49.0
+wandb==0.12.7
+
